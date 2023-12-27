@@ -9,7 +9,7 @@ public class Assignment {
      *
      * Bu araçlar aylık ya da günlük kiralanabilir ancak SUV araçlar sadece günlük kiralanabilir.
      *
-     * case2: Bu araç bireysel ya da şirketler tarafından kiralanabilir.
+     * Bu araç bireysel ya da şirketler tarafından kiralanabilir.
      * Bireysel müşteriler tarafından sadece Hatchback araçlar kiralanabilirken, şirketlere tarafından tüm araç tipleri kiralanabilir.
      * Yan siteye giriş yapan kullanıcı bireysel müşteri ise sadece Hatchback arabaları görebilir,  şirket ise tüm model araçları görebilir.
      *
