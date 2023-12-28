@@ -9,7 +9,7 @@ public class Authorization {
     }
 
     public static boolean isAuthorized(User user, Car car) {
-        if (user instanceof Corporate) {
+        if (user.isCompany()) {
             return true;
         } else {
             return canIndividualRent(car);
